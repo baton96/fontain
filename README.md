@@ -8,8 +8,9 @@ fountain is a Python tool for font recognition on images
 # Usage
 
 ## API
+
 ```python
-from fountain import *
+from fontain import *
 ```
 
 ## CLI
