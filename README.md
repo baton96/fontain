@@ -1,9 +1,9 @@
-# ⛲ fountain ⛲
+# ⛲ fontain ⛲
 
-fountain is a Python tool for font recognition on images
+fontain is a Python tool for font recognition on images
 
 # Installation
-```pip install fountain```
+```pip install fontain```
 
 # Usage
 
@@ -15,7 +15,7 @@ from fontain import *
 
 ## CLI
 ```
-fountain [-h] path
+fontain [-h] path
 
 Recognize font on image
 
