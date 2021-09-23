@@ -14,7 +14,7 @@ setuptools.setup(
     author='Bartosz Paulewicz',
     author_email='podolce0@gmail.com',
     url='https://github.com/baton96/fountain',
-    download_url='https://github.com/baton96/fountain/-/archive/0.1/fountain-0.1.tar.gz',
+    download_url='https://github.com/baton96/fountain/archive/refs/tags/0.1.tar.gz',
     keywords=['font', 'ocr'],
     classifiers=[
         'Development Status :: 3 - Alpha',
